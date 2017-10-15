@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
         //完全修飾名でないとできないかも
         startActivity(intent);
         //アクティビティを起動
+        //リポジトリへのコミット検証（10/15_Fujikawa）
     }
 
     public void Get(View view){
